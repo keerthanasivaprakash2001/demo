@@ -5,7 +5,7 @@ Demo programs
 
 
 
-printf
+printf Hello world
 
 
   
